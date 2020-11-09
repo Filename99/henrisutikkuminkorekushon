@@ -1,0 +1,11 @@
+howloseone=え？ どうやって失ったの？
+throwinback=後ろに投げるべきだと思います...
+justbesafe=...安全のために？
+youever=あなたは今まで...
+wonderwhy=...なぜここに銀行があるのだろうか？
+well=Mmwell。
+moreofavault=まるで金庫室のようなものだと思いますよね？
+thatmakessense=ああ、それは理にかなっています！
+alarm=【アラーム音】
+freeze=【外】フリーズ！
+dontmove=【外】動かないで！
